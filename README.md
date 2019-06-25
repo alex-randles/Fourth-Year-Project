@@ -25,4 +25,4 @@ A video walkthrough demonstrating the project - https://drive.google.com/file/d/
   
 
 ### Final system design
-![voice assistant](docs/blog/images/voice_assistant.jpg)
+![voice assistant](https://github.com/randlea2/FourthYearProject/blob/master/documentation/blog/images/voice_assistant.jpg)
