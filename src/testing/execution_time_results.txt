@@ -1,0 +1,28 @@
+## This contains all the results of the execution time of the scripts 
+Script: $HOME/projectSourceCode/commandScripts/timeCommand/time.py took 0:00:02.966994 to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV4.py dj dove illusions took 0:00:22.177558 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV5.py dj dove illusions took 0:00:30.447000 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV4.py took 0:00:14.249796 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV4.py took 0:00:57.526328 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV4.py took 0:00:47.423755 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/getSongUrl.py took 0:00:19.868033 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/getSongUrl.py dj dove illusion took 0:00:37.195441 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/getSongUrl.py dj dove illusion took 0:00:31.554167 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playSongUrl.py https://r5---sn-q0cedn7s.googlevideo.com/videoplayback?fvip=5&dur=372.261&initcwndbps=1402500&beids=9466585&keepalive=yes&key=yt6&c=WEB&itag=251&clen=6140152&pl=16&mn=sn-q0cedn7s%2Csn-aigzrn7z&mm=31%2C26&source=youtube&mime=audio%2Fwebm&ip=136.206.5.148&requiressl=yes&expire=1551382905&mv=m&mt=1551361218&ms=au%2Conr&id=o-AH6xnkCsCbCLBZKzb-qDDs7l6NkIIuznsmCtjxnegtX6&lmt=1509590883071565&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&gir=yes&ipbits=0&ei=GeV3XP-9CdaygAfOsoH4Bw&signature=9630A0119D854194FD00D3D29B61342C37F62EC2.9D8555CC5EEFA960684670600B8E106F5F81ECDE&ratebypass=yes took 0:00:00.010555 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/playMusicV6.py 2 bit crew tdtav took 0:00:00.057438 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV6.py inner city good life took 0:00:01.702226 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV6.py inner city good life took 0:00:01.762840 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV6.py inner city good life took 0:00:01.836307 seconds to execute
+Script: $HOME/projectSourceCode/commandScripts/musicCommand/playMusicV6.py inner city good life took 0:00:01.798170 seconds to execute
+
+##### Overlock testing 
+##### Testing the wikipedia command finder as this takes the longest to execute 
+
+##before overclock 
+Script: $HOME/2019-ca400-randlea2/src/commandScripts/searchInformation/wiki.py took 0:00:09.911789 seconds to execute
+
+
+
+##after overclock 
+Script: $HOME/projectSourceCode/commandScripts/searchInformation/wiki.py took 0:00:09.325890 seconds to execute
+

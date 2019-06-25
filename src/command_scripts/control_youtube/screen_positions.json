@@ -1,0 +1,14 @@
+{
+  "search bar":[982, 159],
+  "search button":[1089, 153],
+  "home": [106,159],
+  "full screen": [1192, 866],
+  "small screen" : [2000, 1500],
+  "pause" : [480, 378],
+  "first result":[432, 363],
+  "second result":[606, 484],
+  "third result":[544, 618],
+  "fourth result" : [586, 781],
+  "fifth result" : [559, 970]
+
+}

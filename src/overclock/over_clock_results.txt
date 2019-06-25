@@ -1,0 +1,197 @@
+No overclock results 
+_______________________
+
+
+600000
+temp=58.5'C
+600000
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+
+Doing CPU performance benchmark
+
+Threads started!
+Done.
+
+Maximum prime number checked in CPU test: 50000
+
+
+Test execution summary:
+    total time:                          480.9027s
+    total number of events:              10000
+    total time taken by event execution: 1923.2722
+    per-request statistics:
+         min:                                115.73ms
+         avg:                                192.33ms
+         max:                                529.58ms
+         approx.  95 percentile:             298.57ms
+
+Threads fairness:
+    events (avg/stddev):           2500.0000/10.05
+    execution time (avg/stddev):   480.8180/0.06
+
+1400000
+temp=78.4'C
+
+
+
+
+overclocking settings
+___________________
+
+arm_freq = 1450 
+over_voltage = 2
+ 
+ 
+## Results
+
+600000
+temp=58.0'C
+600000
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+
+Doing CPU performance benchmark
+
+Threads started!
+Done.
+
+Maximum prime number checked in CPU test: 50000
+
+
+Test execution summary:
+    total time:                          364.2427s
+    total number of events:              10000
+    total time taken by event execution: 1456.7928
+    per-request statistics:
+         min:                                115.77ms
+         avg:                                145.68ms
+         max:                                354.46ms
+         approx.  95 percentile:             199.50ms
+
+Threads fairness:
+    events (avg/stddev):           2500.0000/13.58
+    execution time (avg/stddev):   364.1982/0.02
+
+1450000
+temp=76.3'C
+
+
+
+
+overclocking settings
+___________________
+
+arm_freq = 1500
+gpu_freq = 500
+over_voltage = 6
+ 
+ 
+## Results
+
+
+
+
+
+overclocking settings
+___________________
+
+arm_freq = 1550
+gpu_freq = 500
+over_voltage = 6
+ 
+ 
+## Results
+
+
+600000
+temp=61.2'C
+600000
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+
+Doing CPU performance benchmark
+
+Threads started!
+Done.
+
+Maximum prime number checked in CPU test: 50000
+
+
+Test execution summary:
+    total time:                          342.5040s
+    total number of events:              10000
+    total time taken by event execution: 1369.8065
+    per-request statistics:
+         min:                                135.01ms
+         avg:                                136.98ms
+         max:                                317.64ms
+         approx.  95 percentile:             138.71ms
+
+Threads fairness:
+    events (avg/stddev):           2500.0000/2.55
+    execution time (avg/stddev):   342.4516/0.03
+
+1500000
+temp=78.4'C
+
+
+
+
+
+
+
+
+
+
+
+overclocking settings
+___________________
+
+arm_freq = 1550
+gpu_freq = 500
+over_voltage = 6
+ 
+ 
+## Results
+
+600000
+temp=60.1'C
+600000
+sysbench 0.4.12:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+
+Doing CPU performance benchmark
+
+Threads started!
+Done.
+
+Maximum prime number checked in CPU test: 50000
+
+
+Test execution summary:
+    total time:                          339.6370s
+    total number of events:              10000
+    total time taken by event execution: 1358.3624
+    per-request statistics:
+         min:                                121.04ms
+         avg:                                135.84ms
+         max:                                218.84ms
+         approx.  95 percentile:             136.65ms
+
+Threads fairness:
+    events (avg/stddev):           2500.0000/10.56
+    execution time (avg/stddev):   339.5906/0.05
+
+155000
+temp=77.4'C
+
+

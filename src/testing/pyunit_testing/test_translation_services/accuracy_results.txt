@@ -1,0 +1,5 @@
+Google accuracy was 1.0 with audio file: user_4.wav
+CMU_Sphinx accuracy was 0.625 with audio file: user_4.wav
+Bing accuracy was 0.85 with audio file: user_4.wav
+Google accuracy was 0.72 with audio file: user_4.wav
+

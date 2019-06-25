@@ -1,0 +1,4 @@
+Google took 1.3680636882781982 seconds to translate audio file: user_4.wav
+CMU_Sphinx took 0.906368823353 seconds to translate audio file: user_4.wav
+Bing took 1.45565664333 seconds to translate audio file: user_4.wav
+Wit.ai took 1.6224223333 seconds to translate audio file: user_4.wav

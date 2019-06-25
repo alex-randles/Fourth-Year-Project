@@ -1,0 +1,99 @@
+{
+
+  "news": {
+  "sentences": [
+    "is there any news",
+    "tell me the news",
+    "what are the news headlines",
+    "any news for today",
+    "news"
+  ]
+  },
+
+
+
+  "send_email": {
+    "sentences": [
+       "send email to alex",
+       "send an email for me to nicky",
+       "send email sophie",
+       "can you send an email alex"
+  ]
+  },
+
+
+  "translation": {
+   "sentences": [
+      "translate hello to french",
+      "translate how are you to spanish",
+      "translate hello to spanish",
+      "translate testing to irish"
+        ]
+  },
+
+
+
+
+  "music": {
+    "sentences": [
+        "play drake",
+        "play drake playlist",
+        "play calvin harris",
+        "play ed sheeran galway girl"
+        ]
+  },
+
+
+
+  "search": {
+     "sentences": [
+      "what is a dog",
+      "what is a cat",
+      "what is a tv",
+      "what is a language"
+  ]
+  },
+
+
+
+
+  "read_email": {
+   "sentences": [
+     "is there any news",
+      "tell me the news",
+      "what are the news headlines",
+      "any news for today",
+      "news"
+    ]
+  },
+
+
+
+
+  "weather": {
+    "sentences": [
+      "what is the weather",
+      "check the weather",
+      "weather forecast",
+      "weather for today"
+  ]
+  },
+
+
+    "security_on": {
+    "sentences": [
+      "turn security on",
+      "security on"
+  ]},
+
+
+    "security_off": {
+    "sentences": [
+      "turn security off",
+      "security off"
+  ]
+  }
+
+
+
+}
